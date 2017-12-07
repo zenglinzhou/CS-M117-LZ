@@ -1,0 +1,4 @@
+#Wed Dec 06 13:31:39 PST 2017
+base.0=/Users/zenglinzhou/Desktop/CS-M117-michaelChanges/Application/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
